@@ -29,7 +29,7 @@ let config = {
 //  resolve: {
 //    root: [ __dirname ]
 //  },
-  devtool: 'eval-source-map'
+  devtool: 'inline-source-map'
 
 };
 
